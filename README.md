@@ -386,7 +386,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dstdevwd`][@stdlib/stats/strided/dstdevwd]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a double-precision floating-point strided array using Welford's algorithm.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/dvariance`][@stdlib/stats/strided/dvariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/svariancewd`][@stdlib/stats/strided/svariancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array using Welford's algorithm.</span>
--   <span class="package-name">[`@stdlib/stats-base/variancewd`][@stdlib/stats/base/variancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using Welford's algorithm.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/variancewd`][@stdlib/stats/strided/variancewd]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using Welford's algorithm.</span>
 
 </section>
 
@@ -484,7 +484,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/svariancewd]: https://github.com/stdlib-js/stats-strided-svariancewd
 
-[@stdlib/stats/base/variancewd]: https://github.com/stdlib-js/stats-base-variancewd
+[@stdlib/stats/strided/variancewd]: https://github.com/stdlib-js/stats-strided-variancewd
 
 <!-- </related-links> -->
 
